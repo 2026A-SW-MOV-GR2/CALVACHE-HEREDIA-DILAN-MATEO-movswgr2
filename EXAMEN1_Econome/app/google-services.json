@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666154908476",
+    "project_id": "examen1-econome",
+    "storage_bucket": "examen1-econome.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666154908476:android:bcef28e2af50d1805cbc39",
+        "android_client_info": {
+          "package_name": "com.example.examen_bimestre1_econome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxR7KBYmmWJD2RFPAQXocEHH5OXuDEkaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
